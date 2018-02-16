@@ -6,9 +6,7 @@ This repo contains a basic launcher app written (poorly) in C# that adds a Steam
 
 ## Installation
 
-TBA
-
-<!-- Run Supplied .msi file and the app will appear as a 3D object within the Cliff House. -->
+Run Supplied .appxbundle file and the app will appear as a Program within the Cliff House start menu. After selecting, it should place a 3D object in the Cliff House that launches SteamVR when interacted with.
 
 
 ## Why does this exist?
