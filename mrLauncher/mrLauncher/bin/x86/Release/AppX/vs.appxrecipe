@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VRBOX</Machine>
+    <WindowsUser>joshk</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>b60c18d7-2efb-4bdd-bf8e-1f46042d45ea</PackageIdentityName>
+    <PackageIdentityPublisher>CN=joshk</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>FE7BDFC9DE13810B9650EE43FA4F6AD3C878D7662087C511CF0277A63560C741</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b60c18d7-2efb-4bdd-bf8e-1f46042d45ea_1.0.0.0_x86__pv2cz3eyq0x3a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b60c18d7-2efb-4bdd-bf8e-1f46042d45ea_pv2cz3eyq0x3a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b60c18d7-2efb-4bdd-bf8e-1f46042d45ea</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=joshk</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:16:24.516</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.scale-100.png">
+      <PackagePath>Assets\AppList\AppList.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:15.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.scale-125.png">
+      <PackagePath>Assets\AppList\AppList.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:16.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.scale-150.png">
+      <PackagePath>Assets\AppList\AppList.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:18.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.scale-200.png">
+      <PackagePath>Assets\AppList\AppList.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:19.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.scale-400.png">
+      <PackagePath>Assets\AppList\AppList.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:20.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-16.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:20.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-16_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:03.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-20.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-20.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:04.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-20_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-20_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:10.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-24.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:22.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:05.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-256.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:03.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-256_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:08.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-30.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:05.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-30_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-30_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:11.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-32.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:00.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-32_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-32_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:06.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-36.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-36.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:06.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-36_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-36_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:12.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-40.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-40.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:08.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-40_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-40_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:13.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-48.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:01.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-48_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:07.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-60.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-60.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:09.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-60_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-60_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:14.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-64.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-64.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:10.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-64_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-64_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:16.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-72.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-72.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:11.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-72_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-72_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:17.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-80.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:13.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-80_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-80_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:18.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-96.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-96.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:14.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\AppList\AppList.targetsize-96_altform-unplated.png">
+      <PackagePath>Assets\AppList\AppList.targetsize-96_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:19.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Large\Large310x310Logo.scale-100.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:57.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Large\Large310x310Logo.scale-125.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:58.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Large\Large310x310Logo.scale-150.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:59.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Large\Large310x310Logo.scale-200.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:01.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Large\Large310x310Logo.scale-400.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:13:02.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Medium\Medium150x150Logo.scale-100.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:49.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Medium\Medium150x150Logo.scale-125.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:50.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Medium\Medium150x150Logo.scale-150.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:52.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Medium\Medium150x150Logo.scale-200.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:53.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Medium\Medium150x150Logo.scale-400.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:54.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Small\Small71x71Logo.scale-100.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:43.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Small\Small71x71Logo.scale-125.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:44.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Small\Small71x71Logo.scale-150.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:46.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Small\Small71x71Logo.scale-200.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:47.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Small\Small71x71Logo.scale-400.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:48.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\SplashScreen\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:21.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\SplashScreen\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:23.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\SplashScreen\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:24.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\SplashScreen\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:25.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\SplashScreen\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:27.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\steam.png">
+      <PackagePath>Assets\steam.png</PackagePath>
+      <Modified>2018-02-16T19:21:18.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Steam_icon_logo.svg">
+      <PackagePath>Assets\Steam_icon_logo.svg</PackagePath>
+      <Modified>2018-02-16T20:12:13.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Store\StoreLogo.scale-100.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:29.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Store\StoreLogo.scale-125.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:30.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Store\StoreLogo.scale-150.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:31.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Store\StoreLogo.scale-200.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:32.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Store\StoreLogo.scale-400.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:14:34.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Valve.glb">
+      <PackagePath>Assets\Valve.glb</PackagePath>
+      <Modified>2018-02-16T18:53:01.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Wide\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:55.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Wide\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:56.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Wide\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:56.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Wide\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:56.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\Assets\Wide\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:12:56.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2017-12-22T02:01:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\mrLauncher.dll">
+      <PackagePath>mrLauncher.dll</PackagePath>
+      <Modified>2018-02-16T20:16:24.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\mrLauncher.exe">
+      <PackagePath>mrLauncher.exe</PackagePath>
+      <Modified>2018-02-16T20:16:24.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\mrLauncher.pdb">
+      <PackagePath>mrLauncher.pdb</PackagePath>
+      <Modified>2018-02-16T20:16:24.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-16T20:16:08.664</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.2\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.2\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.2\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.2\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.2\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.2\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

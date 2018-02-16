@@ -1,0 +1,2 @@
+MainPackage=C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\bin\x86\Release\mrLauncher_1.0.0.0_x86.appx
+SymbolPackage=C:\Users\joshk\Documents\Projects\mrLauncher\mrLauncher\AppPackages\mrLauncher_1.0.0.0_Test\mrLauncher_1.0.0.0_x86.appxsym

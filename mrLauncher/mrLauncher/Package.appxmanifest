@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:uap5="http://schemas.microsoft.com/appx/manifest/uap/windows10/5" IgnorableNamespaces="uap uap5 mp">
+  <Identity Name="b60c18d7-2efb-4bdd-bf8e-1f46042d45ea" Publisher="CN=joshk" Version="1.0.0.0" />
+  <mp:PhoneIdentity PhoneProductId="b60c18d7-2efb-4bdd-bf8e-1f46042d45ea" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>SteamVR-mrLauncher</DisplayName>
+    <PublisherDisplayName>joshk</PublisherDisplayName>
+    <Logo>assets\Store\StoreLogo.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.0.0" MaxVersionTested="10.0.0.0" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="mrLauncher.App">
+      <uap:VisualElements DisplayName="Steam VR - mrLauncher" Square150x150Logo="assets\Medium\Medium150x150Logo.png" Square44x44Logo="assets\AppList\AppList.png" Description="This is a simple Mixed Reality app to launch the SteamVR Home from the Cliff House without requiring Desktop Interaction." BackgroundColor="transparent">
+        <uap:DefaultTile Wide310x150Logo="assets\Wide\Wide310x150Logo.png" Square71x71Logo="assets\Small\Small71x71Logo.png" Square310x310Logo="assets\Large\Large310x310Logo.png">
+          <uap5:MixedRealityModel Path="Assets\Valve.glb" />
+        </uap:DefaultTile>
+        <uap:SplashScreen Image="assets\SplashScreen\SplashScreen.png" />
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
