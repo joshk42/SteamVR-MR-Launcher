@@ -6,7 +6,7 @@ This repo contains a basic launcher app written (poorly) in C# that adds a Steam
 
 ## Download
 
-[Click Here to Download](https://github.com/joshk42/SteamVR-MR-Launcher/raw/master/mrLauncher/mrLauncher/AppPackages/mrLauncher_1.0.0.0_Test/mrLauncher_1.0.0.0_x86_x64.appxbundle)
+[Click Here to Download](https://github.com/joshk42/SteamVR-MR-Launcher/raw/master/mrLauncher/mrLauncher/AppPackages/mrLauncher_1.0.1.0_Test/mrLauncher_1.0.1.0_x86_x64.appxbundle)
 
 ## Installation
 
